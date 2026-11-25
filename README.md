@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040286
+# Name:NITHIN KAVI A R
+# Date:25.11.2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1280" height="985" alt="WhatsApp Image 2026-11-25 at 1 48 47 PM" src="https://github.com/user-attachments/assets/0af7e624-2e82-4306-90e5-b10ef85e3dab" />
 
 
 
@@ -59,6 +60,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1280" height="743" alt="WhatsApp Image 2026-11-25 at 1 50 58 PM" src="https://github.com/user-attachments/assets/6ae3fbf5-57a8-448d-b4fc-9d71b2a75f7f" />
 
 
 
@@ -67,6 +69,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1280" height="1109" alt="WhatsApp Image 2026-11-25 at 1 47 40 PM" src="https://github.com/user-attachments/assets/fbcce1fb-6473-4077-8965-836de39a91c4" />
 
 
 
@@ -79,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1280" height="1059" alt="WhatsApp Image 2026-11-25 at 1 51 42 PM" src="https://github.com/user-attachments/assets/966ea4cb-aeda-4501-a381-3d85b339624d" />
 
 
 
@@ -119,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1280" height="741" alt="WhatsApp Image 2026-11-25 at 1 49 47 PM" src="https://github.com/user-attachments/assets/c2e9a4a7-b96f-44e3-9588-16263c356bd0" />
 
 
 
