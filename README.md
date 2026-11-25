@@ -101,6 +101,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="557" height="480" alt="image" src="https://github.com/user-attachments/assets/0a2ff6a6-2e71-4edb-8bec-8de17880d758" />
 
 
 
